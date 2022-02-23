@@ -1,0 +1,857 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the duties on merchandize, more particularly that on sugars occasionally offer'd in answer to a pamphlet intituled The groans of the plantations, &amp;c., exposing the weakness of the said pamphlet ... also shewing how the last imposition on sugars did truly affect that trade ... / by a merchant.</title>
+            <author>Merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36101</idno>
+            <idno type="STC">Wing D1604</idno>
+            <idno type="STC">ESTC R41354</idno>
+            <idno type="EEBO-CITATION">31355146</idno>
+            <idno type="OCLC">ocm 31355146</idno>
+            <idno type="VID">110330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1737:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the duties on merchandize, more particularly that on sugars occasionally offer'd in answer to a pamphlet intituled The groans of the plantations, &amp;c., exposing the weakness of the said pamphlet ... also shewing how the last imposition on sugars did truly affect that trade ... / by a merchant.</title>
+                  <author>Merchant.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Answer to Edward Littleton's The groans of the plantations.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Littleton, Edward, b. 1626. --  Groans of the plantations.</term>
+               <term>Tariff --  Great Britain.</term>
+               <term>Sugar trade --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="notice">
+            <pb facs="tcp:110330:1"/>
+            <pb facs="tcp:110330:1" rendition="simple:additions"/>
+            <pb facs="tcp:110330:2"/>
+            <head>Advertiſement.</head>
+            <p>THE following Papers were Written in the Year 1689, but the further Endeavours to take off the
+then Impoſition on Sugars being forborn, they were laid by and Neglected, till upon ſhewing
+them lately to a Perſon of Quality, who was pleas'd to Approve the Notions therein communicated,
+'twas thought the Publication thereof might be Serviceable at this time. But the Reader muſt have
+Regard to the Time when they were Writ<g ref="char:EOLhyphen"/>ten, and Allow for ſuch Alterations as have Happened
+ſince.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:110330:2"/>
+            <p>A DISCOURSE OF THE Duties on Merchandize, More Particularly of that on SUGARS, Occaſionally
+Offer'd, In ANSWER to a PAMPHLET, INTITULED, <hi>The GROANS of the PLANTATIONS,</hi> &amp;c.
+EXPOSING The Weakneſs of the ſaid Pamphlet, and plainly Demonſtrating, That the Taking off
+the Impoſition on Sugars would not be One Farthing Advantage to the Plantations, and yet take
+away Yearly a great Sum from Their Majeſties preſent Revenue. ALSO, Shewing how the laſt
+Impoſition on Sugars did truly affect that Trade, and how the ſame might yet be Advanc'd, to
+the greater Benefit both of this Kingdom and the Plantations. Alſo, How certain Regulations might
+be made, for the better Accommo<g ref="char:EOLhyphen"/>dating the Duties on Merchandize, both to the Advantage of Trade
+and the Revenue.</p>
+            <p>
+               <hi>By a Merchant.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110330:3" rendition="simple:additions"/>
+            <pb facs="tcp:110330:3"/>
+            <head>An ANSWER to a Pamphlet, Intitu<g ref="char:EOLhyphen"/>led, <hi>The Groans of the Plantations,</hi> &amp;c.</head>
+            <p>MEeting with a Gentleman a little before the late Receſs of the Parliament, who told me that a
+certain Pamphlet called, <hi>The Groans of the Plantations,</hi> &amp;c. had obtained on divers
+Parliament Men, inſomuch that there ſeem'd to be ſome Inclination to take off the late
+Impoſition on Sugars; I thought it might be worth my while to ſee what might be offer'd on that
+Subject, ſo contrary to the Notions I had entertain'd thereof.</p>
+            <p>But truly when I came to read it over, I found ſo lit<g ref="char:EOLhyphen"/>tle weight of Argument in it, that it
+appear'd to me ſcarcely worth Obſervation; yet conſidering that the noiſe ſuch an
+Out-cry, obtaining on Perſons not rightly un<g ref="char:EOLhyphen"/>derſtanding Trade, might perhaps produce ſome
+Reſult prejudicial to Their Majeſties and the Nations preſent Intereſt; for every one
+muſt allow this to be a very ill Time to take off any Part of the ſettled Revenue that may be
+born, when the Parliaments have difficulty enough to find ways of raiſing Money ſuitable to the
+Exigencies of the preſent Times.</p>
+            <p>I ſay, on that Conſideration, I thought I might do ſome Service to the Publick, by
+ſhewing the Invalidity and Nothingneſs of that Pamphlet; but perhaps more, by
+<pb n="2" facs="tcp:110330:4"/> taking this Occaſion, to ſuggeſt to the Government a Me<g ref="char:EOLhyphen"/>thod for the
+Regulating the Cuſtoms, by which both Their Majeſties Intereſt, and the Publick Good may be
+more Advanc'd.</p>
+            <p>To come on then to my Buſineſs, I ſhall firſt Addreſs my ſelf to the Author, to tell
+him, that being altoge<g ref="char:EOLhyphen"/>ther unknown to me, I muſt confeſs in the firſt Deſign of this
+Anſwer, I had taken the Liberty to be ſomewhat Sa<g ref="char:EOLhyphen"/>tyrical upon him, where occaſion was
+adminiſtered: But be<g ref="char:EOLhyphen"/>ing ſince inform'd that he is a Perſon of Quality and Worth, I have
+retrench'd that, and am reſolv'd to carry my ſelf with all the Deference and Reſpect towards
+him that the Matter will bear; yet I muſt needs ſay that I think it a great Overſight in a
+Perſon of his Character, to expoſe himſelf ſo much in Matters wherein he is ſo ſhort of
+ha<g ref="char:EOLhyphen"/>ving a right Underſtanding, almoſt the whole Body of his Diſcourſe being ſubject to
+Exception and Contradiction: ſo that it ſeems to me as if he had receiv'd thoſe Notions, and
+been impos'd upon by ſome diſingenious Perſon, of whom he might have too great an Opinion.
+But as I have undertaken to write an Anſwer, I cannot well ex<g ref="char:EOLhyphen"/>cuſe (and therefore I muſt beg
+his Pardon for this once) to tell the World, that the whole Piece is Compos'd prin<g ref="char:EOLhyphen"/>cipally of
+falacious Arguments, untrue Suggeſtions, un<g ref="char:EOLhyphen"/>fair Reaſoning, drawing erroneous Conſequences
+from falſe Premiſſes; and in ſhort, a halling in by the Head and Shoulders of all the
+Arguments that could be thought on, and forcing them True or Falſe, Right or Wrong, to ſtand
+for his Purpoſe.</p>
+            <p>Yet I will allow that the Gentleman hath a great deal of Reaſon on his ſide, when he
+Complains againſt the
+<pb n="3" facs="tcp:110330:4"/> laſt Impoſition on Sugars, as a matter which (though 'twas through the
+Miſmanagement) prov'd a great Loſs and Injury to the Plantations; and I will not doubt but that
+himſelf may have been a Sufferer thereby; and yet though Loſers may have leave to ſpeak, they
+ought how<g ref="char:EOLhyphen"/>ever to ſpeak Reaſon and Truth, and not ſtrain Matters ſo much beyond the Staple.
+I think he had little Reaſon to Complain ſo much againſt the firſt Duties on Sugars; but
+ſince he lays ſo great a Streſs upon it, I muſt be obliged to trace him in that
+Argument.</p>
+            <p>He begins then to tell us, that the Duty of 18 <hi>d. per</hi> Hundred on Sugars, was in a
+higher Proportion than o<g ref="char:EOLhyphen"/>thers, and above the common Poundage; (but I wonder the Gentleman ſhould
+forget that Muſcovado Sugars were ſold for above 30 <hi>s. per</hi> Hundred in thoſe Days) to
+this he adds the Four and half <hi>per</hi> Hundred (which he can't deny, but was given by an Act
+of their own Council, though he ſuggeſts that 'twas extorted from them) to make up 2 <hi>s.
+per</hi> Hundred to be the Duty which Sugars muſt pay at Home and Abroad: And he tells us that
+'tis the Poor Planters do bear the whole Burden of theſe Duties, and that it appears to be as a
+Land Tax of 2 <hi>s.</hi> in the Pound lying upon the Planter.</p>
+            <p>But then he tells ye that this is not a true Reckoning, and proceeds to make it out, that
+theſe Sugars will yield of clear Profit, at moſt, but 6 <hi>s. per</hi> Hundred, and then the
+Duties draw 2 <hi>s.</hi> out of 6, and are as a Land Tax of a Noble in the Pound.</p>
+            <p>Nay he ſays farther, That if the Sugars yield but 22 <hi>s.</hi> the Duty Swallows up the
+whole Profit; and if it yields but 20 <hi>s.</hi> the Planter Pays the whole Duty out of his
+<pb n="4" facs="tcp:110330:5"/> Pocket, and ſo muſt live by the Loſs; but he lays down as a Truth, that
+the Profit of a Muſcovado Hundred is 5 <hi>s.</hi> for, ſays he, the Cask, Freight, and other
+Charge of Tranſ<g ref="char:EOLhyphen"/>portation, comes to 10 <hi>s.</hi> and 10 <hi>s.</hi> it coſts the Planter, and
+it muſt be ſold for 25 <hi>s.</hi> which is a full Price to clear 5 <hi>s.</hi> for a
+Muſcovado Hundred.</p>
+            <p>I wonder that this Gentleman ſhould no better under<g ref="char:EOLhyphen"/>ſtand the Management of that Trade; for
+every one that hath been acquainted with the Importing Sugars, knows that the common Price of
+ordinary Muſcovado Sugars hath for many Years been 10 <hi>s. per</hi> hundred, (ſometimes
+lower) but ſo much it coſt the Merchant, not the Planter, as he doth unfairly inſinuate; and
+it's true what he ſays, that the Charge of Importation (in which the Duties and al<g ref="char:EOLhyphen"/>ſo loſs of
+Weight was included) hath uſually been com<g ref="char:EOLhyphen"/>puted at 10 <hi>s.</hi> more; and yet if ſuch Sugars
+would reach 20 <hi>s. per</hi> Hundred in <hi>England</hi> (finer Sugar that coſt more, yielding
+more proportionably) the Merchant was not wont to complain, becauſe he valued his Profit on the
+Sale of his Goods ſent out: But herein lies the Falacy, that the Planter muſt be thought the
+Merchant, where there's little or no Gains; but he doth not ſo much as mention him in his Returns
+from <hi>England,</hi> from whence the Profit ariſes; neither will he tell ye (though it be True)
+that in this way of Trade, when the Planter turns Merchant, he ſaves 12 to 15 <hi>s. per</hi>
+Hundred of what the <hi>Engliſh</hi> Merchant muſt pay to his Factor there for Commiſſions
+and other Perquiſits.</p>
+            <p>But the Price he talks of of 25 <hi>s. per</hi> Hundred for Muſ<g ref="char:EOLhyphen"/>covado's, not improv'd by
+Straining, Sundrying, or the like, hath not been heard of late years (unleſs in
+<pb n="5" facs="tcp:110330:5"/> time of War, or ſome extraordinary Emergency) I think it very abſurd then,
+for the Gentleman to ſay, that at the Price of 20 <hi>s. per</hi> Hundred in <hi>England,</hi>
+the Plan<g ref="char:EOLhyphen"/>ter loſes all; and to Suggeſt that the Planter cannot get a Groat a Day for his
+Negro's (not Reckoning for his Land, Chargeable Buildings, <hi>&amp;c.</hi> ſays he) by Selling
+Sugar at 10 <hi>s. per</hi> Hundred, when 'tis evident, that at that Price (and ſometimes lower)
+as fair Improvements have been made, and as good Eſtates rais'd by the Plan<g ref="char:EOLhyphen"/>ters in thoſe
+Plantations, as by any other Buſineſs attempt<g ref="char:EOLhyphen"/>ed in our Age.</p>
+            <p>But all this while he lays not the right Saddle on the right Horſe, for ſuppoſing the
+Duties on Sugars had prov'd a loſs to the Merchant Importer, yet he doth not make it appear how
+this doth affect the Planter: for though he ſeems to impoſe upon us that abſurd Notion, That
+all Impoſitions laid upon Commodities, are paid by thoſe that Breed or Raiſe the ſame, and
+not by the Ex<g ref="char:EOLhyphen"/>penders; yet 'tis his Misfortune to have choſen one of the worſt Inſtances in
+the World to prove that Argument by; for 'tis but of late Years that any other way of Buying and
+Selling was us'd in thoſe Iſlands but for Sugar, all their Accounts being computed by Pounds of
+Sugar, and the Law of the Countrey, allowing all Debts to be paid in that <hi>Specie.</hi>
+            </p>
+            <p>Now to make good this Aſſertion, the Gentleman ought to prove, that after the laying theſe
+Duties, the Planters were forc'd in paying their Debts to the Mer<g ref="char:EOLhyphen"/>chant (for in thoſe days the
+Planters were deeply in Debt) to give them 900 <hi>l.</hi> of Sugar where they contracted the Debt
+but for 600 <hi>l.</hi> or that a hundred of Sugar,
+<pb n="6" facs="tcp:110330:6"/> which before might be valued at 9 <hi>s.</hi> could never after be valued at
+above 6 <hi>s.</hi> there being indeed no other way to make it appear that theſe Duties did
+affect the Planter. But in this Matter, the Negative will be readily prov'd, by all Perſons that
+have been acquainted with the Trade to thoſe Iſlands, who well know that the Planter was not in
+the leaſt affected by thoſe Duties, but paid his Debts in Sugar, and the Merchant paid the
+Duties at Home and Abroad.</p>
+            <p>The next thing I come to take Notice of, is, That the Gentleman doth very falaciouſly conceal
+the Merchant in all his Argument, and through the whole Thread of his Diſ<g ref="char:EOLhyphen"/>courſe, puts the
+Trade of Exporting and Importing on the Planter, which, I ſhould think, ought to be conſider'd
+as the proper Buſineſs of the Merchant: and what he talks of the Reſtraining the Exporting
+the Commodities of the Plantations to the other Colonies, or to the <hi>Streights,</hi> without
+paying the <hi>Engliſh</hi> Duties, doth more nearly concern the Merchant than it doth them; for
+their Sugars are ſtill taken off at as high a price as <hi>Europe</hi> can vend them.</p>
+            <p>But let me tell him, that as Old <hi>England</hi> hath the care of Protecting and Supporting all
+her Colonies, ſhe hath a great deal of reaſon, to make ſuch Regulations as may keep the Power
+of Governing the Trade in her ſelf, and reſerve ſuch a proportionable Advantage therefrom,
+that may make the preſerving thoſe Plantations not burthen<g ref="char:EOLhyphen"/>ſome to her: which we ſee
+practic'd by all other People who have planted Colonies abroad; which yet <hi>England</hi> carries
+with ſuch a hand, as not to ſtreighten or oppreſs them, but ſo as that the Trade may be
+manag'd with mo<g ref="char:EOLhyphen"/>derate
+<pb n="7" facs="tcp:110330:6"/> Advantage on all hands. And we ſee there is no ſhortneſs in Supplying them
+with all the Neceſſaries they want, and taking from them all the Product of their Growth;
+neither doth it appear that the Trade between them and the Northern Colonies is at all
+leſſened, they be<g ref="char:EOLhyphen"/>ing conſtantly ſupply'd from thence with great quantities of
+Proviſions.</p>
+            <p>What he ſays of their deſiring liberty in caſe of Ships being loſt after the Duty paid,
+of Shipping off the ſame quantity again Cuſtom-Free, as they do in <hi>England;</hi> though it
+be reaſon, yet it doth not at all concern the Planter, who is paid for them before they are
+Shipt, un<g ref="char:EOLhyphen"/>leſs he turn Merchant, and ſend them for <hi>England</hi> on his own Account; when
+yet, as he himſelf ſays, moſt of them are in Debt, and if that be true, 'twould better become
+ſuch to pay their Debts at home, than to Merchandize on the Stocks of their Creditors.</p>
+            <p>Indeed what he mentions of the Management of the <hi>Guinea</hi> Trade, ſeems to me to be the
+firſt Grievance that he inſtances, which properly affects the Planter; but as he propoſes the
+laying a Tax on Negro's ſold, as a better way to ſupport the Forts and Gariſons in
+<hi>Africa,</hi> than the erecting a Monopoly: as that Tax muſt have been conſiderable enough
+to anſwer the end; ſo I doubt if it had been ſo manag'd, this Gentleman would now have
+complain'd againſt it as a burden as heavy upon them as any of the reſt. But what he tells of
+the undue practices and ſeverities of the Government there, in Seizing and Condemning the
+Interlopers, no doubt is a great Grie<g ref="char:EOLhyphen"/>vance, but ſtill it lies chiefly on the Merchant, not the
+Planter: But to ſay the truth, this Gentleman appears
+<pb n="8" facs="tcp:110330:7"/> really to be much a better Advocate for the Merchant, only he will not
+diſtinguiſh him from the Planter.</p>
+            <p>He comes next to the main Point of laying the laſt Im<g ref="char:EOLhyphen"/>poſition on Sugar, and in that I do
+heartily agree with him, that it had a fatal Influence on the Plantations for a time; but yet the
+Parliament had no intent thereby to have burdened them, neither had it prov'd ſo in its
+con<g ref="char:EOLhyphen"/>ſequence<g ref="char:punc">▪</g> but through an Overſight in that Act; and not in the leaſt through any of
+thoſe Reaſons alledg'd by him; which is ſufficiently evidenced in that the Tobacco and the
+other Commodities roſe immediately proportion<g ref="char:EOLhyphen"/>able to the Impoſt laid upon them, and Sugar only
+drugg'd: Whereas, if his Arguments were valid, the ſame conſequence muſt have attended
+thoſe other Com<g ref="char:EOLhyphen"/>modities.</p>
+            <p>The real cauſe then why the Sugars did not Advance was this: We had of late Years fallen into
+a conſiderable Trade of ſending Refin'd Sugars to ſeveral Markets a<g ref="char:EOLhyphen"/>broad; but after the
+Commencement of this Act, that Trade wholly ceas'd; by which means our Sugar-bakers having greater
+Stocks upon their Hands than the Inland Trade could take off for ſome conſiderable time, did
+ſtop their Hands from Buying, which made the Sugars at Market ſo great a Drug, and gave the
+Buyers the oppor<g ref="char:EOLhyphen"/>tunity to beat down the price, which naturally falls out on any Commodity, when
+there's more at Market than the Trade will readily expend; and the Neceſſitated Mer<g ref="char:EOLhyphen"/>chant is
+forc'd to beg Chapmen, and muſt ſell his Com<g ref="char:EOLhyphen"/>modity for what he can get.</p>
+            <p>Yet the Conſequence of this prov'd the moſt fatal to thoſe Merchants who had Debts owing
+them in the Iſlands
+<pb n="9" facs="tcp:110330:7"/> where the Accounts run to pay in Sugar, which being Imported after this
+Impoſition, did ſcarcely clear them the one half of their uſual Returns, there being ſome
+men that loſt above 500 <hi>l.</hi> Sterling of their proper Eſtate by that means, which
+certainly was too great a hardſhip to be put on Private Men by the improvidence of a Publick Act,
+and ought to have been Redreſs'd as ſoon as ſeen; but my Authors Notion is right in that,
+That thoſe were not times to procure a Redreſs of Grievances.</p>
+            <p>We do acknowledge that this did reach to ſqueez the Planter likewiſe, their Sugars then
+coming to fall in the Iſlands, for the Merchant could not keep up the Price abroad, when the
+Loſs would have been ſo great in bringing them home.</p>
+            <p>But that which the Parliament deſign'd for a Kindneſs to the Trade, was through an
+Overſight, the cauſe of all this Inconvenience: for, as they ordered all this Additi<g ref="char:EOLhyphen"/>onal Duty
+to be paid back at Tranſportation of Raw Sugars, and did not allow any thing to be drawn back on
+the Shipping off of Sugars Refin'd in <hi>England;</hi> by this it came to paſs, that as the
+<hi>Dutch</hi> did before Vye with us in Foreign Markets, ſo now having the Advantage of drawing
+back all this new Impoſt of 2 <hi>s.</hi> 4 <hi>d. per</hi> Hundred (which our Refiners muſt
+pay, and have nothing allowed them at Shipping off) they had now the Advantage of our Refiners, by
+no leſs than Seven Shillings Eight Pence Half-peny upon every Hundred of Refin'd Sugar, ſo that
+now we could no more ſtand in Competition with them in that Trade.</p>
+            <p>To give a plain Demonſtration whereof, the Reader muſt firſt be acquainted, That Two
+hundred and a half of Muſcovado or Raw Sugar, is uſually allow'd to make
+<pb n="10" facs="tcp:110330:8"/> One hundred of Refin'd: Now the <hi>Dutchman,</hi> drawing back upon his
+Carrying away our Raw Sugars to Refine them at Home, the one half of the Old Duty which is 9
+<hi>d.</hi> and the whole New Duty which is 2 <hi>s.</hi> 4 <hi>d.</hi> this makes 7 <hi>s.</hi> 8
+<hi>d.</hi> ½<g ref="char:punc">▪</g> upon Two hundred and an half of Raw, which, as I have ſaid before,
+produces but One Hun<g ref="char:EOLhyphen"/>dred of Refin'd; and our Refiners having no Allowance made on the Shipping off
+their Refin'd Sugar, they con<g ref="char:EOLhyphen"/>ſequently loſt that Trade, became Over-ſtockt for the Inland
+Expence, the price of Sugars were beat down, the Merchant reduc'd to great Loſs, and no body the
+bet<g ref="char:EOLhyphen"/>ter for it but the <hi>Dutch.</hi> And this was the True Cauſe by which the Impoſt on
+Sugars came to affect the Planta<g ref="char:EOLhyphen"/>tions.</p>
+            <p>And yet for all this, there was no reaſon to cry out,
+<q>The Plantations are Ruin'd. We pay yearly in Duties more than the Rents of our Lands. We are
+wholly ſtript of our Lands and Free-holds, and made worſe than Pack-Tenants. Many that had good
+Eſtates Four Years ago, are now worth nothing, and in a ſtarving Condition. 'Twere a Mercy to
+take away our Lives rather than leave them to us with ſo much Bitterneſs. 'Tis our hard Lot to
+Live depriv'd of the Comforts of Life.</q> With Abundance of the like kind of Exclamations.</p>
+            <p>I think the Gentleman hath in this ſo much Out-run the Conſtable, that I may modeſtly
+deſire him to tell us, Whether the People do Live there ſtill, or what's become of them?
+Whether they are all in Goals for Debt, or have ſtarv'd in the Streets? Have thy ſold their
+Plantations to pay Debts, or their Servants to buy Food and Clothing? They might then be ſaid to
+be depriv'd of the Comforts of Life, and to be reduc'd to a State of
+<pb n="11" facs="tcp:110330:8"/> Bitterneſs. But contrary to this; as perhaps no People in the World have been
+more remarkable for a Luxuriant way of Living, ſo it may be more proper to ask, Whe<g ref="char:EOLhyphen"/>ther they
+have, in any meaſure, retrench'd thoſe Extra<g ref="char:EOLhyphen"/>vagant Exceſſes that were wont to abound
+amongſt them, or have yet learn'd what Providence and Good Husbandry is? But as we have yet heard
+nothing leſs, ſo we have no reaſon to believe that things have been quite ſo bad with them,
+as this Gentleman hath ſtudied to repreſent.</p>
+            <p>But if this ſhould be taken as too great a Reflection on the Planters, it could not well be
+avoided, becauſe the Gentleman hath endeavoured to repreſent them as a poor, ſtarv'd, undone
+People, when the contrary is ſo evident to all that are acquainted with the manner of Living in
+thoſe Parts. Beſides thoſe that are Sober and Diſcreet among them, (of which doubtleſs
+there are many) will not blame me for a gentle Reproof of Vice, where there is ſo much Reaſon
+and Truth. Moreover, it may not be an unſeaſonable Occaſion to put thoſe Gentlemen in mind,
+that as they have had the Opportunity of thoſe vaſt Improvements, to raiſe to themſelves,
+by their own Induſtry, Eſtates of 500, ſome 1000, 2000 <hi>l.</hi> Sterling <hi>per
+Annum;</hi> ſo 'tis a Wonder that Sugars ſhould conti<g ref="char:EOLhyphen"/>nue to hold up their price ſo well,
+when by the Settle<g ref="char:EOLhyphen"/>ment of ſo many other Plantations, there hath been ſo great an Encreaſe of
+that Commodity; which (and not Impoſitions) will probably be the means whereby the price of their
+Sugars muſt come in time to be lower'd: it would therefore very well become them, to exerciſe a
+greater Care to ſave and lay up againſt ſuch a time; as many Prudent Men among them have
+done, whom (not<g ref="char:EOLhyphen"/>withſtanding the great Diſcouragements this Gentleman
+<pb n="12" facs="tcp:110330:9"/> would perſwade us they have all along layn under) we have ſeen to bring
+very conſiderable Eſtates to <hi>England.</hi> But I offer not this out of Envy or Emulation
+(for I heartily wiſh them all the Proſperity and Encouragement they can reaſonably deſire)
+but meerly to excite them to affect a more Frugal and Provident way of Living.</p>
+            <p>I come now to Remark his Talking ſo much of the Hardſhip put upon them, in laying ſo high
+a Duty on White Sugars, and telling us that others can Live by Making Plain Sugar, they muſt Live
+by the Improv'd: And herein lies his Ingenuity in making his Diſcourſe relate more particularly
+to <hi>Barbadoes,</hi> (as he ſays in his Title Page) for no other of our Plantations do any
+thing conſiderable in Refining Sugars: But this let me tell him, that howſoever it may be their
+Intereſt to make White Sugars, I'm ſure it's our Intereſt to keep ſuch a Balance upon them,
+that they ſhall not too much Underſel our Re<g ref="char:EOLhyphen"/>finers in <hi>England,</hi> and that they could
+very conſiderably, when thoſe Sugars paid but 5 <hi>s. per</hi> Hundred Duty.</p>
+            <p>Let us then ſtate the Account between the <hi>Barbadoes</hi> and the <hi>Engliſh</hi>
+Refiner, that we may ſee on whoſe ſide the Ballance then lay: To take the uſual way of
+computing Two hundred and an half of Raw Sugar to make One hundred of Refin'd (which I doubt not
+but will hold to their firſt and ſecond Clayds, one with the other) this coſts us in
+<hi>England 3 s. 9 d.</hi> for the Duty; next, if the Freight of his coſts him but 3 <hi>s.</hi>
+our Two hundred and an half coſts us 7 <hi>s. 6 d.</hi> that's 4 <hi>s. 6 d.</hi> more than his;
+then he loſes nothing by Weight, but we may very well allow 18 <hi>d. per</hi> Hundred for our
+Loſs by the Running of the Sugar and Loſs of Weight; Laſtly, in the Charge of Cask and other
+Expences, he ſaves at leaſt 2 <hi>s. per</hi> Hun<g ref="char:EOLhyphen"/>dred,
+<pb n="13" facs="tcp:110330:9"/> all which makes up 11 <hi>s. 9 d.</hi> that was then ſav'd in Refining One
+hundred of Refin'd Sugar in <hi>Barbadoes,</hi> by Anticipating ſo much Charge that muſt be
+contracted upon it before it comes into the Sugar-bakers Hands here, which wants but 3 <hi>d.</hi>
+to make up the 12 <hi>s.</hi> which the laſt Additional Duty reduc'd them to pay.</p>
+            <p>At that time then they could afford their Fine Sugars in <hi>England</hi> about 7 <hi>s.</hi>
+and ſhip them for Foreign Mar<g ref="char:EOLhyphen"/>kets about 9 <hi>s. 6 d. per</hi> Hundred cheaper than our
+<hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Refiners, which certainly gave them too great an Ad<g ref="char:EOLhyphen"/>vantage, and did too much
+Diſcourage our Home Trade. And now ſince this laſt Impoſt of 7 <hi>s.</hi> more on Whites,
+and 2 <hi>s. 4 d.</hi> on Brown, they had 5 <hi>s. 10 d. per</hi> Hundred at the home Market, and
+15 <hi>s. per</hi> Hundred on ſhipping off, more Advantage than our Refiners. All which being
+conſidered, How imprudent is it in this Gentleman, to make ſo great a Complaint of
+Oppreſſion, in a Matter wherein they were ſo much favoured beyond the Traders of
+<hi>England,</hi> and which (if it ſhould ſo continue) they might improve to their great
+Advantage?</p>
+            <p>The Gentleman proceeds to tell us,
+<q>That they can make a ſhift ſometimes to put off their Fine Sugars at ſome little Profit;
+but their courſe Clayds is quite beaten out of the Pit, they cannot ſell it in <hi>England</hi>
+but at Loſs; they are therefore forc'd to ſend it A<g ref="char:EOLhyphen"/>broad, <hi>&amp;c.</hi>
+               </q> I muſt
+confeſs 'twas unreaſonable to lay the ſame Duty upon that as on the Whiteſt; yet, as I have
+made it appear, they had Advantage enough upon the Whiteſt to make Amends for that. But then I
+muſt needs blame him for being very Diſingenious in Advancing Three palpable Untruths in the
+ſame Paragraph: Firſt, in ſaying, They muſt buy new Cask at Re-ſhipping their
+<pb n="14" facs="tcp:110330:10"/> Clayds, which no body doth: Next he ſays, That together with the other
+Charges of new Freight, Shipping and Un-ſhipping, <hi>&amp;c.</hi> puts them upon unequal Terms
+with the Sellers of other Nations, who are ſuffer'd to come directly to thoſe Markets; when
+'tis known that the <hi>Portuguez, French</hi> and <hi>Dutch,</hi> as well as we, are obliged to
+bring their Sugars home, before they can carry them to other Markets: The Third is, He ſays they
+meet with new Duties and Impoſitions in Foreign Markets; and yet there is no ſuch thing known
+as any New Impoſition laid on Sugars in any Place whether we Trade: and for Com<g ref="char:EOLhyphen"/>pany, I may here
+add a Fourth Miſtake, though he of<g ref="char:EOLhyphen"/>fers it in another Place; where in ſetting forth the
+Hard<g ref="char:EOLhyphen"/>ſhip of their being obliged to ſend their Sugars firſt to <hi>England,</hi> he ſays,
+The whole Trade of Sugars to the <hi>Streights</hi> (to ſay nothing of other Places) is loſt
+both to us and to the <hi>Engliſh</hi> Nation; but 'tis certain that we have ſent many Hundreds
+of Tuns of Raw Sugars to the <hi>Streights</hi> ſince that Day, though we never could attain to a
+current ſettled Trade that way, becauſe the <hi>Portuguez</hi> Vye with us, and underdo us
+therein; and its pity this Gentleman had not Convers'd with ſome Perſon that un<g ref="char:EOLhyphen"/>derſtood
+better, before he had preſum'd to Publiſh theſe Miſtakes to the World.</p>
+            <p>But here again, I will take the Occaſion to ask him, How many Planters he hath known to ſend
+theſe courſe Clayds to <hi>England,</hi> and order them to be Re-ſhipt for Fo<g ref="char:EOLhyphen"/>reign Parts on
+their own Accompts? I am ſure, as many ſuch as he can inſtance, ought to loſe the Name of
+Planters in that Caſe, and be accounted Merchants with a witneſs. But this Gentleman ſeems
+very unwilling to allow any thing of the Merchant to be concern'd in the Sugar-Trade.</p>
+            <p>
+               <pb n="15" facs="tcp:110330:10"/>But I have yet better News to tell thoſe that have a concern for the
+Plantations, than this Gentleman would let them know; for though this Alteration of the Trade, and
+damming up the Current of Sale for a while, did cauſe a conſiderable Fall upon Sugars, and
+thereby Pinch'd the Merchant firſt, and the Planter after, for the firſt Year or two; yet when
+the <hi>Dutch</hi> came to find their Advantages in the Trade, they fetch'd our Raw Sugars a<g ref="char:EOLhyphen"/>way
+faſt enough; and when we found ſo quick a Trade, we had the Opportunity by degrees to raiſe
+them again; and accordingly we ſent as briskly to the <hi>Weſt-Indies,</hi> where, by the
+ſame Conſequence that they fell there, be<g ref="char:EOLhyphen"/>cauſe they firſt fell in <hi>England;</hi> ſo
+now as they firſt riſe in <hi>England,</hi> they came to riſe again in the Plantations, and
+the Trade is come again into its old Courſe (as to Raw Sugars) and for above a Twelve month
+paſt, hath been more profitable than it had been for ſeveral years before; in which time 'twas
+miſerably beaten down on the Mer<g ref="char:EOLhyphen"/>chant, and the Planters were eſteem'd to have the great<g ref="char:EOLhyphen"/>eſt
+Advantage of the Trade, oftentimes Buying what Goods we brought them, and Selling us their Product
+even at their own Prices, the Trade of the Iſlands being ſo much over-done in Favour of the
+Planter.</p>
+            <p>Now then it appears, that this Gentleman is come too late with his <hi>Groans,</hi> when others
+have forgotten the <hi>Pain;</hi> for now the Trade is ſo well reverted in their Fa<g ref="char:EOLhyphen"/>vour, that
+the Planters ſell their Sugars for as much as they did before the Impoſition; which
+Demonſtration of Experience, even in that very Subject which he had undertaken for his Argument,
+doth ſufficiently diſcover, that the Gentleman had no right Notion of theſe Mat<g ref="char:EOLhyphen"/>ters; and
+this plain Fact, That Sugars are actually riſen
+<pb n="16" facs="tcp:110330:11"/> in the Plantations, notwithſtanding the continuance of the Impoſition,
+doth contradict all his Arguments, and ſhew that the Planter is not at this day injur'd by the
+Duties laid on Sugars. The only Injury that remains is to us at home, by Loſing the Trade of
+Exporting Sugars Refin'd in <hi>England.</hi>
+            </p>
+            <p>I cannot omit taking Notice, how this Gentleman un<g ref="char:EOLhyphen"/>dertakes to Careſs the Seamen, which
+methinks looks a little too much like Wheedle, when he tells them,
+<q>That their Navigation is Safe and Healthy; As the Ships come Safe, ſo the Men come Sound. </q>
+Pray was there never any ſuch thing as a Hurricane at <hi>Barbadoes,</hi> in which ſome few
+Ships have been loſt? Or is there no Biting of the Worm there? Was there never any Seamen ſick
+of Ca<g ref="char:EOLhyphen"/>lentures, Belly-achs, Agues, or ſometimes more Con<g ref="char:EOLhyphen"/>tagious Diſtempers in thoſe Parts?
+<q>But it did the Sea<g ref="char:EOLhyphen"/>mens Hearts good to think of a Plantation Voyage, where they might be merry
+among their Friends, and be ſure of a kind Reception; while the Planters had it, they thought
+nothing too good for them,</q> 
+               <hi>&amp;c.</hi> and yet for all this, I never heard that the Seamen
+were ſo fond of theſe Voy<g ref="char:EOLhyphen"/>ages, that they would take a Farthing leſs Wages than to other
+Places; for they always counted the rolling of Buts of Sugar of above a Tun Weight, to be as hard
+work as any they ſhould meet with elſewhere; neither did I ever hear them boaſt of the
+extraordinary Kindneſs of the Planters to them, (whatever they might ſhew to their Commanders)
+or that they could be entertain'd there <hi>gratis;</hi> but on the contrary, I think they ſay,
+That a Bitt, (which is 7 <hi>d.</hi> 1/<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) or half
+a Bitt, is the leaſt Coin that will paſs there in a publick Houſe; and that they can eat and
+drink as well for a Groat in many other Places, as they can there for a Shilling. Well, but now
+this beloved Navigation is gone, and by
+<pb n="17" facs="tcp:110330:11"/>
+               <q> Deſtroying the Plantations, the Navigation to them muſt be deſtroy'd likewiſe, or at
+leaſt made good for nothing; We are ſo Pinch'd our ſelves, that we are forc'd to Pinch all
+that we are concern'd with; We cannot now afford the Seamen that liberal Freight we did
+formerly.</q> This is all over <hi>Robert</hi> for <hi>Ri<g ref="char:EOLhyphen"/>chard;</hi> for what's the Freight to the
+Seamen? Is not their Wa<g ref="char:EOLhyphen"/>ges the ſame, whether the Freight be Dear or Cheap? But I think he's more
+beſides the Matter yet, when he talks of their Liberality, and how willing they are to do
+Reaſon to their good Friends the Seamen, and give them a fair and full Price; when we know, that
+they have brought their Tunnage to be the heavieſt in the World, and have always been wont to
+beat down the Prices of Freight, perhaps the loweſt of any Com<g ref="char:EOLhyphen"/>merce: But where's the Navigation
+gone? How is it de<g ref="char:EOLhyphen"/>ſtroyed? Have there ever ſince been a want of Ships to bring off the Sugar?
+Have not Ships frequented the Plantations, and Freights been as good ſince as before? which all
+that know the Trade will allow.
+<q>But, he ſays, There was no Cauſe ſo viſi<g ref="char:EOLhyphen"/>ble for the Deſertion of the
+<hi>Engliſh</hi> Seamen in the late Reign, as the ſpoiling that Navigation, which was moſt
+Dear to them: </q> A Reaſon, which certainly no Man elſe ever thought on, and ſure, I think,
+too weak to take with any one beſides this Gentleman.</p>
+            <p>I have Commented the larger upon this, again to ſhew that this Gentleman hath not a fair way
+of Reaſoning, but that he doth from divers Suggeſtions, Untrue in themſelves, form
+Con<g ref="char:EOLhyphen"/>cluſions altogether Falſe.</p>
+            <p>But as the Gentleman hath, in the Firſt Part of the Pam<g ref="char:EOLhyphen"/>phlet, endeavour'd to perſwade us,
+that the Plantations are Ruin'd by Taxes, which no body can believe; ſo in the Lat<g ref="char:EOLhyphen"/>ter Part he
+takes a great deal of Pains to Prove what no Un<g ref="char:EOLhyphen"/>derſtanding Man will deny, <hi>viz.</hi> that the
+Plantations are not a Detriment, but an Advantage to <hi>England;</hi> and in that I'll
+<pb n="18" facs="tcp:110330:12"/> never contend with him no more than for his Smiting at thoſe People, who did
+in the Late Kings Reign, make it their whole Study and Endeavours, Right or Wrong, to Advance the
+Kings Revenue; and even Pick the Traders Pocket to put into his; Straining and Wreſting the Laws
+in the Kings Fa<g ref="char:EOLhyphen"/>vour, which ought to be Conſtrued moſt favourably for the Merchant: By which
+means the Traders were extreamly Op<g ref="char:EOLhyphen"/>preſt and Diſcouraged, contrary to the true Intereſt both
+of King and Kingdom. But as we ought always to have in Re<g ref="char:EOLhyphen"/>membrance the Goodneſs and Mercy of
+God, for the Won<g ref="char:EOLhyphen"/>derful Deliverance he hath Wrought for us; ſo 'tis our in<g ref="char:EOLhyphen"/>diſpenſible
+Obligation, to Love, Honour and Obey that Hap<g ref="char:EOLhyphen"/>py Inſtrument, by whoſe Means we are freed, not
+only from thoſe, but far greater Oppreſſions, and the daily Apprehen<g ref="char:EOLhyphen"/>ſions of approaching
+Ruin.</p>
+            <p>But now let us conſider the Conſequence of what this Gentleman aims at, which is to have the
+Plantations eas'd, (as he calls it) by taking off the Duties on Sugars; (doubtleſs he means all
+the Duties, for he repreſents the Firſt as inſupport<g ref="char:EOLhyphen"/>able) and I doubt we ſhall herein find
+this Gentleman guilty of the ſame Principles he hath Condemned in others, That they care not how
+heavy Burdens they lay upon others, ſo they could ſhift it off themſelves. For if we may take
+his own Account, that 7 or 800 Sail of Ships are Imployed yearly in the Plantation Trade; if only
+700, bring one with another but 50 Tuns of Sugar, it makes 35000 Tuns: But we'll be ſo Modeſt
+to Account but 30000 Tuns, the Duty whereof in the Iſlands at 6 <hi>d. per</hi> Hundred (as he
+makes it) is 7500 <hi>l.</hi> of this 30000 Tuns Imported, we'll allow 10000 Tun to be Shipt out
+again, and that then Pays but 9 <hi>d. per</hi> Hundred Duty, which makes another Sum of 7500
+<hi>l.</hi> But the other 20000 Tuns (al<g ref="char:EOLhyphen"/>lowing nothing for Whites) at the preſent Duty of 3
+<hi>s. 10 d.
+<pb n="19" facs="tcp:110330:12"/> per</hi> Hundred, Amounts to 76666 <hi>l. 13 s. 4 d.</hi> ſo here we have
+near (we might venture, all things conſidered, to make it quite) 100000 <hi>l. per Annum</hi> of
+Their Majeſties Revenue, which, by this Gentlemans good Will, ſhould be quite taken off; but in
+what Manner elſe to Raiſe this Money, as we don't well Know, ſo, I believe, he doth as little
+Care, if he can but be eas'd (as he thinks) of Bearing a Part on't himſelf.</p>
+            <p>But now I'll ſhew him how this great Loſs to the Revenue would not yet eaſe the Planter
+One Farthing: In order to which, I'll take a Maxim of his own (though indeed it over<g ref="char:EOLhyphen"/>throws his own
+Argument) which I'll Allow as a great Truth, <hi>viz.</hi> That 'tis only Plenty or Scarcity (which
+is really accord<g ref="char:EOLhyphen"/>ing to the demand of a Commodity) is that which Rules the Market; and Commodities
+of conſtant Uſe and Neceſſity will and do Riſe in ſpight of the greateſt
+Impoſitions that were ever laid on them, while they continue in good Demand: And 'twas the Plenty
+or Glut of Sugars occaſion'd, not by the Impoſition, but by an Accident reſulting therefrom,
+(as I have already ſhewn) that was the Cauſe of the Fall of Sugars at that time: And I
+Challenge any Man to ſhew me any other Inſtance of a Commodities not Riſing according to the
+Im<g ref="char:EOLhyphen"/>poſt laid on it.</p>
+            <p>And notwithſtanding this Gentleman's Suggeſtion, That the Myſtery of laying this Load on
+them (<hi>viz.</hi> the Plantations) was, becauſe if 'twere laid on Foreigners, they'd carry or
+ſend their Commodities to other Places; whereas, if he underſtood Trade, he would know, that we
+uſe to fetch the Commo<g ref="char:EOLhyphen"/>dities we want from Foreigners our ſelves, and expect not to have our
+Markets ſupply'd by them. But I pray him to inquire, whether the <hi>French</hi> did ſend their
+Silks, Linens, Wines and Brandies, when they were ſo highly Impoſted, (the laſt
+eſpe<g ref="char:EOLhyphen"/>cially, no leſs than 8 <hi>l. per</hi> Tun added, which was half its coſt
+<pb n="20" facs="tcp:110330:13"/> in <hi>France</hi>) but 'tis known the <hi>French</hi> did not ſell any of
+theſe Goods a Farthing cheaper; and they were kept up till the Ap<g ref="char:EOLhyphen"/>proaching War, as high as ever,
+the Merchants Importing them all along, as freely as before the Impoſition, and Selling them as
+currantly with the Proportionable Advance; and there was nothing, beſides Sugar, but even ſold
+the brisker. Yet if it ſhould be Objected that Tobacco came to fall in Price, and the Merchants
+loſt conſiderably by it; I Anſwer, That Tobacco did at firſt Riſe anſwerable to the
+Tax, and it fell afterwards no worſe than it was before, for the Trade was o<g ref="char:EOLhyphen"/>ver-done, and Men
+had ſeveral times offered to give their Tobacco for the Freight: But it muſt be Acknowledged
+that that Commodity was ſtrain'd too high.</p>
+            <p>However, if we ſhould Allow, that the laying an Impo<g ref="char:EOLhyphen"/>ſition on a Commodity, might at the
+firſt put it under ſome Diſcouragement; yet 'tis but the ſtruggling with the Altera<g ref="char:EOLhyphen"/>tion,
+for the firſt Year or two that makes the Difficulty: For if it be a Commodity of Conſumption,
+its Demand will Con<g ref="char:EOLhyphen"/>tinue, and the Trade muſt and will Revert, and Eſtabliſh it ſelf in the
+ſame Courſe it was before; ſo that this Difficulty will come to be loſt: as it appears in
+the preſent Caſe of Sugars, which now bears this laſt Duty as current as it did the
+former.</p>
+            <p>But now after the Trade is come to bear it, if this Impoſiti<g ref="char:EOLhyphen"/>on, or the whole Duties (as he
+deſires) ſhould come to be taken off this Commodity, won't all Men expect that it will
+immediately Fall proportionably? It is not ſo long ſince the Temporary Impoſt on Wines fell
+away in King <hi>Charles</hi> the Seconds time, but that we can very well remember, that the Price
+of Wines did Fall anſwerably; and when the ſame came again to be laid on, in the beginning of
+the late King <hi>James,</hi> they equally Roſe again: And yet all this while, nei<g ref="char:EOLhyphen"/>ther the
+<hi>Frenchman</hi> nor the <hi>Spaniard,</hi> did Advance or Fall the
+<pb n="21" facs="tcp:110330:13"/> Price of their Wines at any of theſe Alterations. Nor is there a Jot of
+Reaſon to imagine that the Planter will be able to Advance One Farthing on the Price of Sugars,
+if the Duties were wholly taken off. What then would be the Conſe<g ref="char:EOLhyphen"/>quence of ſuch a piece of
+Buſineſs? Why truly Their Maje<g ref="char:EOLhyphen"/>ſties muſt loſe a great Branch of the Revenue; all the
+Mer<g ref="char:EOLhyphen"/>chants and Traders having Sugar on their Hands, muſt loſe prodigiouſly by the Fall; the
+Planters get nothing; only the Expenders ſhould have their Sugars a Farthing or a Half-peny
+<hi>per</hi> Pound Cheaper, and ſo this Gentleman ſhould have the Honour to Eaſe thoſe that
+will neither thank him, nor think on him.</p>
+            <p>And now, having, as I think, ſaid enough to Convince a<g ref="char:EOLhyphen"/>ny Reaſonable Perſon, that this
+Gentleman is very much in the Wrong in the whole Deſign of his Argument, I am wil<g ref="char:EOLhyphen"/>ling to have
+done with him; it not being my Deſign to Re<g ref="char:EOLhyphen"/>mark and Expoſe every thing that is ſubject to
+juſt Reflecti<g ref="char:EOLhyphen"/>on in that Pamphlet; which I ſhall therefore paſs over, and ſhall take this
+Occaſion to impart ſome Sentiments in Relati<g ref="char:EOLhyphen"/>on to the Impoſing of Duties, and how they
+affect Trade; that if they were throughly conſidered by the Government, might perhaps produce
+more Equal and Prudent Regulations in thoſe Matters for the future, and render them leſs
+Burden<g ref="char:EOLhyphen"/>ſome to Trade, and more Advantagious both to Their Ma<g ref="char:EOLhyphen"/>jeſties and the Kingdom.</p>
+            <p>In order to which I will endeavour to ſhew, that theſe Two Notions, which are commonly
+received and held by ma<g ref="char:EOLhyphen"/>ny People, are, with reſpect to us, but Vulgar Errours, <hi>viz.</hi>
+               <q> That Duties and Impoſitions laid on Commodities, are not born by the Expenders, but revert
+upon the Producers, by making the Product fall on their Hands: And that the laying higher Duties on
+our Commodities, than is done in ſome other Countries, is a Prejudice, and Injury to our
+Trade.</q> 
+            </p>
+            <p>
+               <pb n="22" facs="tcp:110330:14"/>For the firſt then I offer this Argument, That if thoſe Im<g ref="char:EOLhyphen"/>poſitions we
+lay upon Foreign Commodities, do not leſſen their Importation, Expence, or Demand here, their
+Prices al<g ref="char:EOLhyphen"/>ſo Advancing proportionably, then the Impoſition doth not affect the Productors, but
+the Expenders: But we find that thoſe Merchandizes Imported, are not leſſened in their
+Impor<g ref="char:EOLhyphen"/>tation, Expence, or Demand, and have not failed to reach a pro<g ref="char:EOLhyphen"/>portionable Advance; therefore
+'tis plain, that ſuch Impoſitions lie wholly on the Expenders, and do not affect the
+Productors.</p>
+            <p>And if what I have ſaid before may not be thought ſuffici<g ref="char:EOLhyphen"/>ent to back my Argument, I ſhall
+offer ſome farther Inſtances, which, I think, may be enough to Convince any Reaſonable Man of
+the certainty thereof; and I would ask my Author, (or any other Perſon that may be of his Mind)
+Whether, up<g ref="char:EOLhyphen"/>on ſecond Thoughts, he can be of the Opinion, That if the Plantations ſhould think
+fit to lay a Duty on all Proviſions, Apparel, <hi>&amp;c.</hi> Imported to them; that the
+Breeders or Pro<g ref="char:EOLhyphen"/>ducers would be forc'd to bear the Tax, or whether it would not be more likely to
+fall upon the Planters, if they could not be Furniſhed from within themſelves: And in like
+manner, if the Government of <hi>England</hi> ſhould lay a higher Duty on Beer, Cheeſe, Butter,
+Iron-Ware, Hats, Shoes, Stockings, Silks, Stuffs, Linens, or any other things with which they could
+not be Supplied from elſewhere, can it be ſuppoſed, but that the Planter that Expends it,
+muſt pay it every Groat: Or if it were in the power of the Plantations to lay a Duty of 5 <hi>per
+Cent.</hi> on their Sugars there, who doubts but the Expenders in <hi>England</hi> muſt pay it,
+if they could not have it Cheaper from other Places: But we have another In<g ref="char:EOLhyphen"/>ſtance well known to
+every Body in our own Countrey, and that is the Exciſe on Beer and Ale, which hath been ſeveral
+times laid on, and fallen off; and yet the Price of Barley not
+<pb n="23" facs="tcp:110330:14"/> at all influenced thereby, although we ſee plainly that a Short or Fruitful
+Crop, or a Plentiful Cyder Year, makes it to Riſe or Fall conſiderably which again proves, that
+nothing but Plenty or Scarcity, according to the Demand, makes Commodities Advance or Lower.</p>
+            <p>But as there is no general Rule without Exception, ſo I muſt in this diſtinguiſh between
+laying a Tolerable Impoſiti<g ref="char:EOLhyphen"/>on that Trade may bear, (which is as much as concerns our former
+Diſcourſe) and Stretching it ſo high, that it Amounts to a ſort of Prohibition; which yet
+hath ſcarcely ever hap<g ref="char:EOLhyphen"/>pened, but upon ſuch Commodities (principally Manu<g ref="char:EOLhyphen"/>facturies) which may
+be ſupply'd within our own Countrey. As for Inſtance, If our Government were inclined to
+Pro<g ref="char:EOLhyphen"/>mote and Encourage a Manufactury of Canvas and Dowlas in this Kingdom, the only way to do it,
+would be, to lay ſo high a Duty on <hi>French</hi> Linens, that the Manufacturers at Home could
+afford to Sell them Cheaper than they could be rendred from Abroad. And 'twas the Defect of this,
+that Spoyl'd the Linen Manufactury that was finely going on here in the time of the laſt
+Prohibition with <hi>France:</hi> For when the Trade came to Open, the <hi>French</hi> Underſold
+them ſo much, that the Undertakers were Ruin'd; whereas, if the Prohibition had Strictly
+continued, till our People had turned their Hands, and were well Settled in that way of Work, the
+Manufactury would have been Eſtabliſhed to the Great Advantage of this Kingdom.</p>
+            <p>Which Method of Encouraging Native Manufacturies, the <hi>French</hi> King had ſo well
+Obſerved, that about Two Years ſince, he laid ſuch Intolerable Duties on all the
+Manufactu<g ref="char:EOLhyphen"/>ries that were brought into his Kingdom, that it did even reach to a Prohibition, to our
+great Prejudice, and their Advan<g ref="char:EOLhyphen"/>tage; and this I take the Occaſion to offer here, as a Matter
+Worthy the Obſervation of the Government.</p>
+            <p>
+               <pb n="24" facs="tcp:110330:15"/>I next come to ſhew, That 'tis an Errour, to think that the laying Tolerable
+Duties on Commodities Imported into this Kingdom, is a Prejudice to our Trade; for they that draw
+this Obſervation from the <hi>Dutch,</hi> (who muſt be allowed to be a People that Study the
+Intereſt and Promotion of Trade the moſt of any) and becauſe they lay very ſmall Duties on
+their Importations, do from hence conclude, that 'twould be our Intereſt to Imitate them therein,
+do not conſider the different Circumſtances of either Countrey, by which they would per<g ref="char:EOLhyphen"/>ceive
+their Intereſts in that reſpect to be quite different.</p>
+            <p>For the <hi>Dutch</hi> poſſeſſing the Mouths of the great Rivers, the <hi>Rhine</hi> and
+the <hi>Maes,</hi> become thereby the Empory to a vaſt Continent, and ſhould they Impoſe high
+Duties, the Charge of After-carriage, and Tolls, through ſo many Territories the Commodities
+muſt paſs, would render them ſo Extravagantly Dear, as would hinder the Expence, and
+Deſtroy the Impor<g ref="char:EOLhyphen"/>tation. But they have yet a more Powerful Reaſon to Re<g ref="char:EOLhyphen"/>ſtrain them, and
+that is, becauſe <hi>Hamburgh, Bremen,</hi> and other Neighbouring Places, who have Communication
+with the ſame Continent, would then be Able to Underſel and Rob them of their Trade.</p>
+            <p>But now we ſtand quite on another Bottom, for being an ſtand, we are ſure to Spend all
+(except what's Tranſported again, and ſo draws back of the Cuſtoms) within our own
+Government, where none can Vye with us in Trade; ſo that our Commodities Imported, may well bear
+a pretty ſmart, conſtant Duty; always obſerving to Rate Superfluities high<g ref="char:EOLhyphen"/>eſt, and things
+of Neceſſity, and what reſpects our Manu<g ref="char:EOLhyphen"/>facture, more Moderate.</p>
+            <p>But the great Inconvenience lies in this, That our Parlia<g ref="char:EOLhyphen"/>ment (in which 'tis our Misfortune
+that there are too few that underſtand Trade) upon any Extraordinary Occaſion to
+<pb n="25" facs="tcp:110330:15"/> Raiſe Moneys, have commonly been too ready to ſave their Lands, and lay
+new Impoſitions on Merchandize; which be<g ref="char:EOLhyphen"/>ing done without that true Diſcerning, and Scrutinying
+into the Conſequences and Influence it may have on Trade, cauſes great Irregularities, Baulks
+and Diſcouragements, and always brings great Loſs and Damage to the Publick, as hath been
+ſufficiently Demonſtrated in the Caſe of Sugars. Whereas it would be the true Intereſt of
+our Government, to Raiſe as great a Revenue by conſtant Taxes, ſuch as Exciſe, Cu<g ref="char:EOLhyphen"/>ſtoms,
+<hi>&amp;c.</hi> as the Nation might well bear without Grievance; and upon extraordinary
+Occaſions, to ſupply it by Land and Poll-Taxes. And whereas the Laying of Impoſts, is an
+Extra<g ref="char:EOLhyphen"/>ordinary Advantage and Profit, to all that have the good Hap to have Quantities of thoſe
+Goods by them, and an Unreaſon<g ref="char:EOLhyphen"/>able Loſs to thoſe that ſhall have them Remaining on their
+Hands at the expiration of the Impoſts, this Irregularity will be prevented, when the Duties of
+Goods come to be Aſcer<g ref="char:EOLhyphen"/>tained: And that being once ſettled, Trade will run Currant, and not
+feel them, neither will Occaſion be adminiſtred for a<g ref="char:EOLhyphen"/>ny to complain and vent their
+Diſcontents like this Gentleman.</p>
+            <p>It is then humbly offered, That a new Book of Rates ſhould be Compoſed, in which all
+Additional Duties, Impoſts, <hi>&amp;c.</hi> ſhould be laid by, and all Commodities exactly and
+carefully Rated, according to what, in the Judgment of Underſtand<g ref="char:EOLhyphen"/>ing Men, the Trade would bear;
+and this to remain as a Standard for the Cuſtom of Merchandize, and never any more temporary
+Impoſts to be thought on.</p>
+            <p>And as there is Reaſon to lower the Cuſtoms on ſome Commodities Imported, and alſo that
+our Woollen Manufa<g ref="char:EOLhyphen"/>cturies ſhould pay little or no Duties out, becauſe other Nati<g ref="char:EOLhyphen"/>ons having in
+this laſt Age much Vyed with us in that Trade, we ought to render them as Cheap in Foreign
+Markets as poſ<g ref="char:EOLhyphen"/>ſible; yet there are many Commodities that will admit of a
+<pb n="26" facs="tcp:110330:16"/> conſiderable Advance, and ſome that will bear a leſs Deducti<g ref="char:EOLhyphen"/>on at
+Shipping off; by which the Value of the Cuſtoms will in the whole be highly Improved. Alſo
+ſuch Commodities which are now Prohibited, as <hi>Weſtphalia</hi> Hams, Gloves,
+<hi>&amp;c.</hi> might be loaden with a high Duty, which would as well an<g ref="char:EOLhyphen"/>ſwer the End, as the
+preſent Prohibition; for thoſe things are now brought in by the by, and Pay no Duty at all.</p>
+            <p>And although (as I have already ſhewn) the Laying of tem<g ref="char:EOLhyphen"/>porary Impoſitions is very
+Injurious and Detrimental; yet I think there cannot be an eaſier way of Tax upon a People, than
+that of Cuſtoms, becauſe it lies for the moſt part on Su<g ref="char:EOLhyphen"/>perfluities, and 'tis in every Mans
+Power to eaſe himſelf of the Charge as he pleaſes. And as our Nation is fallen into ſo
+great an Expence of Spice, Fruit, Wines, Brandy, Sugar, Tobacco, Silk, and many other things, which
+we ſee are wont to Riſe and Fall very Conſiderably, and yet the Expence and Demand Continue,
+there is no doubt of their Bearing Duties; for 'tis an Infallible Rule to me, That a ſmall
+Advance of Duty, cannot baulk thoſe Commodities that are capable of ſo great Advances in Price
+ſo that I cannot ſee how our Trade can be hereby in the leaſt Leſſened or Injured.</p>
+            <p>However there ought to be certain Able and Underſtanding Merchants concerned in the
+Compoſing the ſaid New Rates, for that there are divers things will occur, that ought not to be
+done at Adventures, but with a great deal of Scrutiny and Diſcretion, that no ſuch Errors may
+be Committed, as was in the forementioned Impoſition on Sugars, by which we beat our ſelves out
+of the Trade of Tranſporting Refined Sugars.</p>
+            <p>And now, ſince that Commodity hath given occaſion to this Diſcourſe, I ſhall here take
+the Opportunity to offer my O<g ref="char:EOLhyphen"/>pinion, how the ſame may be yet Advanced to a higher Duty, and yet
+Trade not Injured thereby; Suppoſe then there were 5 <hi>s. per</hi> Hundred Duty ſet on Raw
+Sugars, which is but half
+<pb n="27" facs="tcp:110330:16"/> a Farthing <hi>per</hi> Pound more than it now Pays, and comes to a Farthing
+and Quarter more <hi>per</hi> Pound in Refined, Can any one think that the Good Woman will put a
+Scruple the leſs in her Apple-Pyes, for ſo inconſiderable an Advance? Nay, we know that when
+Sugar hath Riſen One Peny <hi>per</hi> Pound, all the odds is, that they content themſelves to
+take Sugar 1 <hi>d. per</hi> Pound Courſer than what they uſed before; and ſo they lay out
+the ſame Money ſtill, and the Commodity con<g ref="char:EOLhyphen"/>tinues its Vent; but this is to be underſtood of
+the Meaner People, for the Rich never ſtick at Price for what they want.</p>
+            <p>But then to order the Buſineſs on Tranſportation of White Sugars, there ought to be 7 or 8
+<hi>s. per</hi> Hundred Deducted at ſhipping of Single Refined, and for courſer Sorts leſs,
+according to the Value; and becauſe this takes from the Revenue what was not before; as there is
+now but 9 <hi>d. per</hi> Hundred Remains for Raw Sugars ſhipt out, (the reſt being drawn back)
+let there now be 18 <hi>d. per</hi> Hundred left, that is but 3 <hi>s. 6 d.</hi> of the 5
+<hi>s.</hi> Paid back at Tranſportation, and I am ſure that 9 <hi>d. per</hi> Hun<g ref="char:EOLhyphen"/>dred won't
+frighten the <hi>Dutch</hi> from fetching over Raw Su<g ref="char:EOLhyphen"/>gars, when 'tis common for that Trade to
+continue, when Sugars Riſe 3 or 4 <hi>s. per</hi> Hundred; and by this means Their Majeſties
+will have the 8 <hi>d. per</hi> Hundred ſure, even of all that is Tranſported; which,
+conſidering the ſmall Quantities of White, in Proportion to the Raw Sugars uſually ſhipt
+off, will ſufficiently Compenſate the Deduction, and then the 14 <hi>d. per</hi> Hundred added
+to the Duty of White ſpent in <hi>England,</hi> will, according to the former Computation, bring
+in upwards of 23000 <hi>l. per Annum</hi> to Their Majeſties, the <hi>Engliſh</hi> Sugar-Bakers
+will be encouraged, and 'twill be the ready way for the Planter to find a brisker Trade for his
+Sugars: For if we can be able to Vye with other Nations with our Refin'd Sugars in Fo<g ref="char:EOLhyphen"/>reign
+Markets, it muſt needs encourage our Plantations, be<g ref="char:EOLhyphen"/>cauſe it makes more room for the Vent of
+their Productions;
+<pb n="28" facs="tcp:110330:17"/> but then White Sugars Imported ought to Pay at leaſt 14 <hi>s. per</hi>
+Hundred, to make it equal with Whites Refin'd at Home, (Courſer Sorts Paying leſs, according to
+their Value) and to draw back at ſhipping off no more than ours.</p>
+            <p>I'll only give one Hint more of what might be done in the Tobacco Trade, which now, paying
+<hi>5d. per</hi> Pound Duty, makes it ſo hard for Men of ſmall Stocks to raiſe Money to pay
+it, that many are obliged to Sell it on Board, the Buyer to diſ<g ref="char:EOLhyphen"/>charge the Duties, to their great
+diſadvantage, and beating down the Price of the Commodity; however, it having ſtrug<g ref="char:EOLhyphen"/>led ſo
+many years with this high Duty, and it being a Commo<g ref="char:EOLhyphen"/>dity that the Tax is not perceiveable in the
+Expence, I believe it might now bear 4 <hi>d. per</hi> Pound conſtant Duty. But then, as before,
+it kept only ½ <hi>d. per</hi> Pound on Tranſportation, we might now keep 1 <hi>d.
+per</hi> Pound; for I have obſerved, that the high Duties at Home, and great Gluts of Tobacco,
+hath had this Advantage, that the Merchant being forced to ſeek Abroad for Markets for his
+Tobacco, they have by its Cheapneſs, ſo forced a Trade, that in <hi>Spain</hi> eſpecially,
+they are mightily fallen into the uſe of our Tobacco, finding it much Cheaper than what they can
+Import themſelves. And indeed, ours is much the Cheapeſt of any brought into <hi>Europe.</hi>
+And if we ſhould keep a Peny <hi>per</hi> Pound of the Duty here, 'twould yet come Cheaper to
+them than what they could be ſupply'd from any other Parts, and I am ſure 'twould add
+conſiderably to the Revenue.</p>
+            <p>The greateſt inconvenience in Laying high Duties on Com<g ref="char:EOLhyphen"/>modities is, That it pinches on the
+Merchants, whoſe Stocks are not great, to Advance ſo much Money, and ſtreighten
+them<g ref="char:EOLhyphen"/>ſelves, when they make no Improvement thereof; The Proviſion that is now made, to eaſe
+them in this Caſe, by giving Bond, is yet a greater Inconvenience to them; for that, beſides
+the difficulty to ſome of getting good Security, thoſe that Pay Rea<g ref="char:EOLhyphen"/>dy
+<pb n="29" facs="tcp:110330:17"/> Money, have ſo great Abatements, that they can afford to Under-ſell them;
+for which there might yet be an Accommoda<g ref="char:EOLhyphen"/>tion provided, which would be no real Detriment to Their
+Majeſties, and make even higher Duties become eaſier to the Merchant, and this by a means
+commonly practiſed abroad; which is, all Merchandizes are brought directly from Land<g ref="char:EOLhyphen"/>ing to the
+Kings Warehouſes, where the Merchant may let them lye, till he brings his Chapman to buy them, or
+can con<g ref="char:EOLhyphen"/>veniently raiſe Money to pay the Duty: To ſuit this then to our Practice, Let all the
+Cellars and Warehouſes near the Cuſtom<g ref="char:EOLhyphen"/>houſe Keys, and Places where they lie Contiguous and
+with greateſt Conveniency, be taken up for Their Majeſties; and let all Merchandize, of which
+the Duty is not diſcharged, be carried directly to thoſe Cellars or Warehouſes, that are
+moſt proper for each <hi>Species,</hi> and there laid in Ranges, every Mans Goods by it ſelf,
+and fair room left to rummage, or turn in or out, (ſuffering any Merchant, that deſires it, to
+have a parti<g ref="char:EOLhyphen"/>cular Cellar to himſelf) where the Goods ſhall lie, under the Cuſtody of the
+Warehouſe-Keeper, till the Merchant ſhall pay the Duty: But he ſhall have liberty at all
+ſeaſonable Hours for himſelf, Servants or Coopers, to look over, and take any needful Care of
+his Goods, by Hooping or otherwiſe, or to ſhew them to Chapmen. To which end, there ſhall
+always attend a Com<g ref="char:EOLhyphen"/>petent Number of Servants at the Warehouſe-Keepers Office, to carry and bring
+back the Keys, and to ſee that none of the Goods are Imbezled or taken way. There ſhall alſo
+be Watch<g ref="char:EOLhyphen"/>men appointed to walk by Night, for prevention, in caſe of Thieves or Fire, as well for
+Their Majeſties as the Merchants Security. For all which there ſhall be certain Reaſonable
+Rates and Allowances adjuſted, proportionable to the Charge of Cellarage in the reſpective
+Ports, and Their Majeſties to be at no Charge.</p>
+            <p>If it ſhall be Objected, That by this Method, Their Maje<g ref="char:EOLhyphen"/>ſties
+<pb n="30" facs="tcp:110330:18"/> will not have ſo much Ready Money paid them as be<g ref="char:EOLhyphen"/>fore, 'tis Anſwered, If
+it be ſo, the Inconvenience can only be at firſt; for, after the firſt Stop, 'twill come into
+a Circulati<g ref="char:EOLhyphen"/>on, and the Money will be paid in Monthly as faſt as 'twas before; beſides, Their
+Majeſties Security in this, is better than where they give Bond, which ſometimes Fails, and
+oftentimes lies long before paid. And to Encourage the Merchants to pay their Money under this
+Method, he that pays Ready Money at Landing, ſhall have an Abatement of Seven and half
+<hi>per</hi> Hundred, he that carries it to the Ware-houſe, ſhall have 5 <hi>per</hi> Hundred
+Abatement, if he pay within Seven Months; but he that lets his Goods lie longer than Seven Months,
+ſhall have no Abatement. And if any Goods ſhall remain in the Cellars Twelve Months, the
+Officers ſhall Sell them by Inch of Candle, Pay Their Majeſties Duty and Charge, and Return the
+Overplus to the Proprietor. This alſo will pre<g ref="char:EOLhyphen"/>vent the Diſparity of Abatements among the
+Merchants, and thereby Favour the leſſer Traders.</p>
+            <p>And foraſmuch as there is a great deal of Trouble to the Officers, and oftentimes Hardſhip
+and Injury to the Merchants, in the making Allowances for Damnified Goods, which now is given only
+at the Diſcretion of Their Majeſties Officers; it would be Reaſonable, that the Merchants
+ſhould in every Port Annually chooſe Two underſtanding Tradeſmen of the Place, to be Judges
+of Damage; who ſhould be Sworn to do Juſtice, according to the beſt of their Judgment,
+between Their Ma<g ref="char:EOLhyphen"/>jeſties and the Merchant; and theſe ſhall Examine and View over all Goods
+that are Damaged, and ſhall Agree upon what Allowances they think Reaſonable apart by
+them<g ref="char:EOLhyphen"/>ſelves, and no Officer or Merchant be permitted to ſpeak to them till they have done, and
+what they Award ſhall be Allowed by the Officers. And to the Intent they may not be Swayed or
+Byaſſed to either Intereſt, they ſhall not only be
+<pb n="31" facs="tcp:110330:18"/> paid the one half by Their Majeſties, the other half by the Merchant;
+(according to certain Rates to be Agreed upon for all ſorts of Goods) but as the Merchant may
+Reject them in the next Years Choice, if they ſeem Partial in Their Maje<g ref="char:EOLhyphen"/>ſties Favour; ſo the
+Collector of the Port ſhall have Power, if he finds them Unreaſonable in the Allowances to the
+Mer<g ref="char:EOLhyphen"/>chant, to Except againſt thoſe Perſons at the next Years Electi<g ref="char:EOLhyphen"/>on; and then they ſhall
+never be Capable of that Office again. And in caſe of any Goods that may pay by Value, the
+Merchant ſhall Value his Goods himſelf, and the Officer or any other Per<g ref="char:EOLhyphen"/>ſon ſtanding by,
+ſhall have Liberty to take them at that Price, with the Addition of 15 <hi>per</hi> Hundred more
+to the Merchant.</p>
+            <p>It would alſo be Advantagious both to Their Majeſties and the Merchant, that there ſhould
+be made more Severe Laws againſt any Defrauding of the Duties, or Running of Goods, as they call
+it: For thoſe few Perſons that follow that kind of Trade, and have Succeſs in it, cannot only
+Afford to Sell Cheaper, but are forced to do ſo, becauſe they are Obliged to Diſperſe it as
+ſoon as poſſible; and the Buyers will take the Advantage, whereby the Fair Traders are very
+much Injured in the Vent of their Goods, and in the Markets being beaten down. And indeed it is the
+Intereſt of every Legal Trader, to Endeavour the Diſcovering thoſe Unfair Practices, and to
+give them all the Diſcouragement poſſibly they can.</p>
+            <p>There may many more things be thought on for the gene<g ref="char:EOLhyphen"/>ral Encouragement of Trade, without
+Reſpect to Private In<g ref="char:EOLhyphen"/>tereſt, but this may ſuffice for this preſent Eſſay; my Deſign
+herein being chiefly to Excite the Ingenious Traders to con<g ref="char:EOLhyphen"/>ſult their own Fair Advantages in
+theſe Matters, and take the Occaſion of ſo happy a Conjuncture, wherein they have a
+Government, which will be ready to Indulge them in any Reaſonable Conveniences for the
+Encouragement of Trade. And there is no doubt, but that if it were Prudently Sollicited,
+<pb n="32" facs="tcp:110330:19"/> they might Obtain a Committee to be Conſtituted for the Con<g ref="char:EOLhyphen"/>ſulting and
+well Governing the Affairs of Trade, a thing which hath, of late, been much talked on; but if
+'twere once Gain'd, would certainly be the beſt Means that ever was thought on, to Promote and
+Advance the Trade of this Nation.</p>
+            <p>To conclude then, As I have taken now the liberty to Publiſh theſe Notions of mine, I cannot
+doubt but it will appear to all Ingenious Men, to be done with that Impartial Freedom, that I have
+not leaned to any particular Intereſt, (which, I am ſure, was what I intended;) and as I
+ſhall not value the Cenſures of Partial Men, who may think I have troden too hard on the Toes
+of their particular Intereſts; ſo I freely ſubmit my ſelf to the Judgment of all Candid and
+Ingenious Mer<g ref="char:EOLhyphen"/>chants. And if any thing I have offered ſhall not be Conſen<g ref="char:EOLhyphen"/>tanious to their
+Reaſon; as they have the ſame Liberty of Publiſhing their Objections, I ſhall only beg them
+to do it with the ſame Candor and Clearneſs, which I have endeavoured: By which kind of
+Diſſertation, the Reaſon and Truth of things may become more Evident, in order to the
+Promoting ſuch Methods, as may moſt Conduce to the Publick Good, by which I ſhall Attain
+my</p>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>THE Author of the foregoing Papers hopes, that it will ſufficiently appear, That he hath
+not deſign'd to recommend any thing that may really bring a Burthen upon Trade, or the
+Plantations; but that, as it hath been Propos'd in this preſent Parliament, to lay a farther Duty
+on Sugars, if they ſhall think fit ſo to do, regard may be had to ſuch Regulations as is
+therein Propos'd. By which Means, he humbly conceives, that ſuch an Advance of the Duty will not
+at all affect the Merchant, nor the Planter, but be whol<g ref="char:EOLhyphen"/>ly paid by the Expenders. However,
+conſidering that the Loſs of many Ships Employ'd in that Trade this Year, and the Damage done
+by the late Hurricane, hath caus'd the Price of Sugars to be extravagantly high at the preſent;
+it may be reaſonable, that if a higher Duty be laid upon it, the ſame may not be made to
+Commence till the Firſt of</hi> April, 1696. <hi>when the next Crop may be expected.</hi>
+            </p>
+            <p>☞ <hi>Note,</hi> That as the preſent Duty on Sugars is but 18 <hi>d<g ref="char:punc">▪</g>
+               </hi> the
+Raiſing it to 5 <hi>s.</hi> will Increaſe the Revenue 70000 <hi>l. per Annum,</hi> according to
+the Computation of 20000 Tuns Yearly Imported for the National Expence.</p>
+            <pb facs="tcp:110330:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
